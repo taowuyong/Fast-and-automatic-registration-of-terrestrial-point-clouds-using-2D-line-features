@@ -1,0 +1,2 @@
+# Fast-and-automatic-registration-of-terrestrial-point-clouds-using-2D-line-features
+We provide the Matlab code of a point cloud coarse registration algorithm, which is performed by using 2D line features. The main advantage of the algorithm is its high computation efficiency. Everyone is welcome to use the code for research work, and please cite my paper (Wuyong Tao, Xianghong Hua, Zhiping Chen and Pengju Tian. (2020). Fast and automatic registration of terrestrial point clouds using 2D line features. Remote Sensing, 12(8): 1283-1298.)
